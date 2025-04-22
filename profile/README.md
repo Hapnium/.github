@@ -33,6 +33,7 @@ Some repositories are **shared across all products**. These are general purpose:
 | Node.js libraries and backend tools | `node` |
 
 > 🛠 **No product name** prefix is used for company-wide repos.
+> For ASCII generation, we use [Text to ASCII Art](https://www.asciiart.eu/text-to-ascii-art)
 
 ---
 
